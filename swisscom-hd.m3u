@@ -82,4 +82,16 @@ rtp://239.186.68.45:10000
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional Europa/África ES" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" tvg-chno="469" channel-id="469",tve int HD
 rtp://239.186.68.178:10000
 
+#EXTREM:catalan
+#EXTINF:-1 tvg-id="tv3.cat" tvg-name="TV3" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/TV3-blanc.png" tvg-chno="001" channel-id="001",TV3
+http://directes-tv-int.ccma.cat/live-origin/tvi-hls/bitrate_3.m3u8
+EXTINF:-1 tvg-id="324.cat" tvg-name="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/324-en-DIRECTO-Online-en-vivo-en-directe.png" tvg-chno="002" channel-id="002",324
+http://directes-tv-int.3cat.cat/live-content/canal324-hls/bitrate_3.m3u8
+EXTINF:-1 tvg-id="SX3.cat" tvg-name="SX3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/640px-SX3_logo.svg.png" tvg-chno="003" channel-id="003",SX3
+https://directes-tv-cat.3cat.cat/live-content/super3-hls/bitrate_2.m3u8
+EXTINF:-1 tvg-id="Canal_33.cat" tvg-name="Canal 33" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-33-en-DIRECTO-Online-EN-VIVO-EN-DIRECTE.png" tvg-chno="004" channel-id="004",Canal 33
+https://directes-tv-cat.3cat.cat/live-content/super3-hls/bitrate_2.m3u8
+
+
+https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/bitrate_3.m3u8
 
