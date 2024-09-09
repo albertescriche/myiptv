@@ -57,9 +57,9 @@ rtp://239.186.68.34:10000
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026",Tele M1
 rtp://239.186.68.102:10000
-#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="027" channel-id="027" group-title="NEWS",TeleZüri
+#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://tamarasedmak.com/wp-content/uploads/2021/12/TeleZu%CC%88ri_Logo-1024x695.png" tvg-chno="027" channel-id="027" group-title="NEWS",TeleZüri
 rtp://239.186.68.189:10000
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo Plus" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="028" channel-id="028" group-title="NENS",Toggo Plus
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo Plus" tvg-logo="https://www.unpay.tv/images/senderlogos/toggoplus.png" tvg-chno="028" channel-id="028" group-title="NENS",Toggo Plus
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="029" channel-id="029" group-title="NEWS",ZDFinfo
 rtp://239.186.68.32:10000
@@ -77,11 +77,11 @@ rtp://239.186.68.160:10000
 rtp://239.186.68.125:10000
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="035" channel-id="035",Channel 4
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://coachmikeblogs.com/wp-content/uploads/2016/09/cnn-logo-white.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
 rtp://239.186.70.249:10000
-#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="039" channel-id="039",Film Four
 rtp://239.186.64.172:10000
