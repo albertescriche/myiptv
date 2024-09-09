@@ -63,7 +63,7 @@ rtp://239.186.68.189:10000
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="029" channel-id="029" group-title="NEWS",ZDFinfo
 rtp://239.186.68.32:10000
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Toggo-Logo.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ / Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
 rtp://239.186.68.175:10000
