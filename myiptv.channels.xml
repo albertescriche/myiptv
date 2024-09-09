@@ -64,6 +64,7 @@
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
     <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
     <channel update="i" site="plutotv.de" site_id="5be1c3f9851dd5632e2c91b2" xmltv_id="Pluto TV Nature">Pluto TV Nature</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
     
   </channels>
 </site>
