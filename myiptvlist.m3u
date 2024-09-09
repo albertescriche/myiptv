@@ -45,7 +45,7 @@ rtp://239.186.74.40:10000
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="020" channel-id="020",Kabel eins
 rtp://239.186.68.15:10000
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://static.epg.best/de/Kika.de.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://rocketbeans.de/wordpress/wp-content/uploads/2023/09/kika_inverted.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="022" channel-id="022",ProSieben
 rtp://239.186.68.17:10000
