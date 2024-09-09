@@ -83,7 +83,7 @@ rtp://239.186.70.23:10000
 rtp://239.186.70.249:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="039" channel-id="039" group-title="ENG",Film Four
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://logodix.com/logo/1075501.png" tvg-chno="039" channel-id="039" group-title="ENG",Film Four
 rtp://239.186.64.172:10000
 
 #EXTREM:spanish
