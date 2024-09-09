@@ -55,7 +55,7 @@ rtp://239.186.70.87:10000
 rtp://239.186.68.34:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
-#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026" group-title="DEU",Tele M1
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://www.knie.ch/fileadmin/_processed_/8/8/csm_Tele_M1_schw._Logo_weiss_Hintergrund_64bedc25f5.png" tvg-chno="026" channel-id="026" group-title="DEU",Tele M1
 rtp://239.186.68.102:10000
 #EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://tamarasedmak.com/wp-content/uploads/2021/12/TeleZu%CC%88ri_Logo-1024x695.png" tvg-chno="027" channel-id="027" group-title="NEWS",TeleZüri
 rtp://239.186.68.189:10000
