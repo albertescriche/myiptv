@@ -5,7 +5,7 @@
 #EXTREM:catalan
 #EXTINF:-1 tvg-id="tv3.cat" tvg-name="TV3" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/TV3-blanc.png" tvg-chno="001" channel-id="001" group-title="CAT",TV3
 https://directes3-tv-cat.3cat.cat/live-content/tv3-hls/master.m3u8
-#EXTINF:-1 tvg-id="324.cat" tvg-name="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/324-en-DIRECTO-Online-en-vivo-en-directe.png" tvg-chno="002" channel-id="002" group-title="CAT",324
+#EXTINF:-1 tvg-id="324.cat" tvg-name="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/324-en-DIRECTO-Online-en-vivo-en-directe.png" tvg-chno="002" channel-id="002" group-title="NEWS",324
 http://directes-tv-int.3cat.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="SX3.cat" tvg-name="SX3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/640px-SX3_logo.svg.png" tvg-chno="003" channel-id="003" group-title="NENS",SX3
 https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
@@ -17,7 +17,7 @@ https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="006" channel-id="006",SRF2 HD SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="007" channel-id="007",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="008" channel-id="008",3sat
 rtp://239.186.68.27:10000
@@ -41,7 +41,7 @@ rtp://239.186.68.26:10000
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018",HGTV (deu)
 rtp://239.186.74.40:10000
-#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="019" channel-id="019",Euronews D
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="020" channel-id="020",Kabel eins
 rtp://239.186.68.15:10000
@@ -53,42 +53,47 @@ rtp://239.186.68.17:10000
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024",sixx
 rtp://239.186.68.34:10000
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://static.epg.best/de/Tagesschau24.de.png" tvg-chno="025" channel-id="025",Tagesschau24
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://static.epg.best/de/Tagesschau24.de.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026",Tele M1
 rtp://239.186.68.102:10000
-#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="027" channel-id="027",TeleZüri
+#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://static.epg.best/ch/TeleZueri.ch.png" tvg-chno="027" channel-id="027" group-title="NEWS",TeleZüri
 rtp://239.186.68.189:10000
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo Plus" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" tvg-chno="028" channel-id="028" group-title="NENS",Toggo Plus
 rtp://239.186.66.202:10000
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="029" channel-id="029",ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" tvg-chno="029" channel-id="029" group-title="NEWS",ZDFinfo
 rtp://239.186.68.32:10000
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
+rtp://239.186.64.17:10000
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ / Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
+rtp://239.186.68.175:10000
 
 #EXTREM:english
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="030" channel-id="030",BBC One
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://static.epg.best/uk/BBC1.uk.png" tvg-chno="032" channel-id="032",BBC One
 rtp://239.186.68.43:10000
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="032" channel-id="032",BBC News
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News" tvg-logo="https://static.epg.best/uk/BBCNews.uk.png" tvg-chno="033" channel-id="033" group-title="NEWS",BBC News
 rtp://239.186.68.160:10000
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="033" channel-id="033",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV" tvg-logo="https://static.epg.best/uk/BloombergTV.uk.png" tvg-chno="034" channel-id="034" group-title="NEWS",Bloomberg TV
 rtp://239.186.68.125:10000
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="034" channel-id="034",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="035" channel-id="035",Channel 4
 rtp://239.186.68.40:10000
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC UK" tvg-logo="https://static.epg.best/uk/CNBC.uk.png" tvg-chno="035" channel-id="035",CNBC UK
-rtp://239.186.70.224:10000
-#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="036" channel-id="036",CNN
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://static.epg.best/uk/CNN.uk.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="037" channel-id="037",DW Englisch
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
 rtp://239.186.70.249:10000
-#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="038" channel-id="038",Euronews E
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://static.epg.best/uk/EuroNews.uk.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="039" channel-id="039",Film Four
 rtp://239.186.64.172:10000
 
 #EXTREM:spanish
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="040" channel-id="040",Canal 24 Horas
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="040" channel-id="040" group-title="NEWS",Canal 24 Horas
 rtp://239.186.68.45:10000
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TTVE Internacional" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" tvg-chno="041" channel-id="041",TVE Internacional
 rtp://239.186.68.178:10000
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="Televisió L'Hospitalet" tvg-logo="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" tvg-chno="042" channel-id="042" group-title="CAT",Televisió L'Hospitalet
+https://dsics8mazj4kk.cloudfront.net/out/v1/6dee3be4308c46b188424f473f7f9a98/index_1.m3u8?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkaXN0cmlidXRpb24iOiI2ZGVlM2JlNDMwOGM0NmIxODg0MjRmNDczZjdmOWE5OCIsImlzcyI6Imh0dHBzOi8vbGF4YXJ4YW1lcy5jb20iLCJhdWQiOiJodHRwczovL2xheGFyeGFtZXMuY29tIiwidGltZUJhc2UiOjE3MjU0MjYwMDAsInRpbWVGcmFtZXMiOltbMCw3Ml1dLCJleHAiOjE3MjU5MDI1OTIwMDAsImlhdCI6MTcyNTgwNTM5MjAwMCwibmJmIjoxNzI1ODA1Mzg3MDAwfQ.qkx_um6XkA0CkitBHcm7S4q6NOb3_2w8WLdTXIuyeig&_t=1725805392&hash=c-6314325986112&_tc=1704883461
+
 
 
 
