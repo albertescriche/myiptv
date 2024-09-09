@@ -19,7 +19,7 @@ rtp://239.186.68.1:10000
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN-1.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
 rtp://239.186.68.14:10000
@@ -33,7 +33,7 @@ rtp://239.186.70.116:10000
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://static.epg.best/de/ARTE.de.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-15.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
 rtp://239.186.68.26:10000
@@ -47,9 +47,9 @@ rtp://239.186.70.101:10000
 rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://rocketbeans.de/wordpress/wp-content/uploads/2023/09/kika_inverted.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://zypix.de/wp-content/uploads/2020/04/prosieben.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 rtp://239.186.68.17:10000
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/pro7-maxx.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 rtp://239.186.68.34:10000
