@@ -9,7 +9,7 @@ https://directes3-tv-cat.3cat.cat/live-content/tv3-hls/master.m3u8
 http://directes-tv-int.3cat.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="SX3.cat" tvg-name="SX3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/640px-SX3_logo.svg.png" tvg-chno="003" channel-id="003" group-title="NENS",SX3
 https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="Canal_33.cat" tvg-name="Canal 33" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-33-en-DIRECTO-Online-EN-VIVO-EN-DIRECTE.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
+#EXTINF:-1 tvg-id="Canal_33.cat" tvg-name="Canal 33" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/33-blanc.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
 https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 
 #EXTREM:german
