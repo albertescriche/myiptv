@@ -37,7 +37,7 @@ rtp://239.186.68.9:10000
 rtp://239.186.68.11:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="016" channel-id="016",BR
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018",HGTV (deu)
 rtp://239.186.74.40:10000
