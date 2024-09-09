@@ -41,9 +41,9 @@ rtp://239.186.68.26:10000
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV (deu)
 rtp://239.186.74.40:10000
-#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
+#EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2023/01/31/aa6256717794af8d6e3acae4ecd4876d/logo-euronews-transparent-on-white-rgb.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://gaensehaut-medien.de/site/assets/files/1044/logo_kabel1.png" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
 rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://rocketbeans.de/wordpress/wp-content/uploads/2023/09/kika_inverted.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
