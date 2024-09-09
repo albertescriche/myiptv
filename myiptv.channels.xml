@@ -28,9 +28,6 @@
     <channel update="i" site="tv.blue.ch" site_id="256##1dec385a-163f-4664-bd14-a25bbeb1ce39" xmltv_id="MDR">MDR</channel>
     <channel update="i" site="tv.blue.ch" site_id="205##63ee71dc-e994-4b47-98ca-8837174eb699" xmltv_id="HR">HR</channel>
     <channel update="i" site="tv.blue.ch" site_id="342##1e9a704c-452c-4890-a8a4-ae004e8cc66d" xmltv_id="RBB">RBB</channel>
-    <channel update="i" site="tv.blue.ch" site_id="1770##71f78604-8dc8-2010-7048-cc7e8c8ffef0" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="tv.blue.ch" site_id="1908##326e268a-383d-8110-7048-f883d894c50f" xmltv_id="3+">3+</channel>
-    <channel update="i" site="tv.blue.ch" site_id="1909##f6bfaa4e-383d-8110-7048-f883d894c5d6" xmltv_id="4+">4+</channel>
     <channel update="i" site="tv.blue.ch" site_id="1635##2397072e-f525-0010-7048-99b3309d7f47" xmltv_id="Eurochannel D">Eurochannel D</channel>
     <channel update="i" site="tv.blue.ch" site_id="571##f10a182e-5fa3-4947-b198-1efc3e650197" xmltv_id="Tele 5">Tele 5</channel>
     <channel update="i" site="tv.blue.ch" site_id="385##9447ecf0-d9fc-4296-8e90-fa45c64bf4c7" xmltv_id="sixx">sixx</channel>
@@ -64,6 +61,7 @@
     <channel update="i" site="ccma.cat" site_id="33##c33" xmltv_id="Canal 33">Canal 33</channel>
     <channel update="i" site="ccma.cat" site_id="esport3##es3" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="ccma.cat" site_id="tv3cat##tvi" xmltv_id="TV3 CAT">TV3 CAT</channel>
+    <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
     
   </channels>
 </site>
