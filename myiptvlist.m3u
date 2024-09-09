@@ -31,7 +31,7 @@ rtp://239.186.68.195:10000
 rtp://239.186.70.116:10000
 #EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="https://static.epg.best/ch/7Plus.ch.png" tvg-chno="013" channel-id="013",7+
 rtp://239.186.68.175:10000
-#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://static.epg.best/de/ARD.de.png" tvg-chno="014" channel-id="014",Das Erste
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014",Das Erste
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://static.epg.best/de/ARTE.de.png" tvg-chno="015" channel-id="015",Arte Deutsch
 rtp://239.186.68.11:10000
