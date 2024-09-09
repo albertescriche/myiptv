@@ -79,7 +79,7 @@ rtp://239.186.68.125:10000
 rtp://239.186.68.40:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://coachmikeblogs.com/wp-content/uploads/2016/09/cnn-logo-white.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://static.epg.best/de/DeutscheWelleEn.de.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
 rtp://239.186.70.249:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
