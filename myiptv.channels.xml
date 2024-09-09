@@ -62,6 +62,7 @@
     <channel update="i" site="ccma.cat" site_id="esport3##es3" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="ccma.cat" site_id="tv3cat##tvi" xmltv_id="TV3 CAT">TV3 CAT</channel>
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
+    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
     
   </channels>
 </site>
