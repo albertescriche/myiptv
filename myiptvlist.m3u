@@ -53,7 +53,7 @@ rtp://239.186.68.17:10000
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024",sixx
 rtp://239.186.68.34:10000
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://static.epg.best/de/Tagesschau24.de.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026",Tele M1
 rtp://239.186.68.102:10000
