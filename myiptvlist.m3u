@@ -93,7 +93,7 @@ rtp://239.186.68.45:10000
 rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="Televisió L'Hospitalet.cat" tvg-name="Televisió L'Hospitalet" tvg-logo="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" tvg-chno="042" channel-id="042" group-title="CAT",Televisió L'Hospitalet
 https://dsics8mazj4kk.cloudfront.net/out/v1/6dee3be4308c46b188424f473f7f9a98/index_1.m3u8?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkaXN0cmlidXRpb24iOiI2ZGVlM2JlNDMwOGM0NmIxODg0MjRmNDczZjdmOWE5OCIsImlzcyI6Imh0dHBzOi8vbGF4YXJ4YW1lcy5jb20iLCJhdWQiOiJodHRwczovL2xheGFyeGFtZXMuY29tIiwidGltZUJhc2UiOjE3MjU0MjYwMDAsInRpbWVGcmFtZXMiOltbMCw3Ml1dLCJleHAiOjE3MjU5MDI1OTIwMDAsImlhdCI6MTcyNTgwNTM5MjAwMCwibmJmIjoxNzI1ODA1Mzg3MDAwfQ.qkx_um6XkA0CkitBHcm7S4q6NOb3_2w8WLdTXIuyeig&_t=1725805392&hash=c-6314325986112&_tc=1704883461
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" tvg-chno="043" channel-id="043" ,Cuatro [04]
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" tvg-chno="043" channel-id="043" ,Cuatro [04]
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 
