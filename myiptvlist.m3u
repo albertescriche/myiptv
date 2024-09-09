@@ -13,49 +13,49 @@ https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
 https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 
 #EXTREM:german
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="005" channel-id="005",SRF 1
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://static.epg.best/ch/SRF1.ch.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="006" channel-id="006",SRF2 HD SRF zwei
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="008" channel-id="008",3sat
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://static.epg.best/at/3sat.at.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="009" channel-id="009",3+
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
 rtp://239.186.68.14:10000
-#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="010" channel-id="010",4+
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="010" channel-id="010" group-title="DEU",4+
 rtp://239.186.68.142:10000
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://static.epg.best/ch/5Plus.ch.png" tvg-chno="011" channel-id="011",5+
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://static.epg.best/ch/5Plus.ch.png" tvg-chno="011" channel-id="011" group-title="DEU",5+
 rtp://239.186.68.195:10000
-#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://static.epg.best/ch/6Plus.ch.png" tvg-chno="012" channel-id="012",6+
+#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://static.epg.best/ch/6Plus.ch.png" tvg-chno="012" channel-id="012" group-title="DEU",6+
 rtp://239.186.70.116:10000
-#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="https://static.epg.best/ch/7Plus.ch.png" tvg-chno="013" channel-id="013",7+
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ CH" tvg-logo="https://static.epg.best/ch/7Plus.ch.png" tvg-chno="013" channel-id="013" group-title="DEU",7+
 rtp://239.186.68.175:10000
-#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014",Das Erste
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://static.epg.best/de/ARTE.de.png" tvg-chno="015" channel-id="015",Arte Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://static.epg.best/de/ARTE.de.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="016" channel-id="016",BR
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
 rtp://239.186.68.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018",HGTV (deu)
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV (deu)
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://static.epg.best/de/Euronews.de.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="020" channel-id="020",Kabel eins
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://static.epg.best/de/Kabel1.de.png" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
 rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://rocketbeans.de/wordpress/wp-content/uploads/2023/09/kika_inverted.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="022" channel-id="022",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://static.epg.best/de/ProSieben.de.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 rtp://239.186.68.17:10000
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="023" channel-id="023",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
 rtp://239.186.70.87:10000
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024",sixx
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 rtp://239.186.68.34:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
-#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026",Tele M1
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://static.epg.best/ch/TeleM1.ch.png" tvg-chno="026" channel-id="026" group-title="DEU",Tele M1
 rtp://239.186.68.102:10000
 #EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="TeleZüri" tvg-logo="https://tamarasedmak.com/wp-content/uploads/2021/12/TeleZu%CC%88ri_Logo-1024x695.png" tvg-chno="027" channel-id="027" group-title="NEWS",TeleZüri
 rtp://239.186.68.189:10000
@@ -69,13 +69,13 @@ rtp://239.186.64.17:10000
 rtp://239.186.68.175:10000
 
 #EXTREM:english
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://www.pngkey.com/png/full/222-2229293_35pm-subscribe-to-watch-watch-now-bbc-two.png" tvg-chno="032" channel-id="032",BBC One
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://www.pngkey.com/png/full/222-2229293_35pm-subscribe-to-watch-watch-now-bbc-two.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News" tvg-logo="https://i0.wp.com/thankyouday.org.uk/wp-content/uploads/2023/07/0bbcnews.png" tvg-chno="033" channel-id="033" group-title="NEWS",BBC News
 rtp://239.186.68.160:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV" tvg-logo="https://reelworld.com/assets/images/marketing/bloomberg/bloomberg-logo@2x.png" tvg-chno="034" channel-id="034" group-title="NEWS",Bloomberg TV
 rtp://239.186.68.125:10000
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="035" channel-id="035",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="035" channel-id="035" group-title="ENG",Channel 4
 rtp://239.186.68.40:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://coachmikeblogs.com/wp-content/uploads/2016/09/cnn-logo-white.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
@@ -83,13 +83,13 @@ rtp://239.186.70.23:10000
 rtp://239.186.70.249:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="039" channel-id="039",Film Four
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://static.epg.best/uk/Film4.uk.png" tvg-chno="039" channel-id="039" group-title="ENG",Film Four
 rtp://239.186.64.172:10000
 
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://static.epg.best/es/24Horas.es.png" tvg-chno="040" channel-id="040" group-title="NEWS",Canal 24 Horas
 rtp://239.186.68.45:10000
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TTVE Internacional" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" tvg-chno="041" channel-id="041",TVE Internacional
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TTVE Internacional" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" tvg-chno="041" channel-id="041" group-title="NEWS",TVE Internacional
 rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="Televisió L'Hospitalet.cat" tvg-name="Televisió L'Hospitalet" tvg-logo="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" tvg-chno="042" channel-id="042" group-title="CAT",Televisió L'Hospitalet
 https://dsics8mazj4kk.cloudfront.net/out/v1/6dee3be4308c46b188424f473f7f9a98/index_1.m3u8?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkaXN0cmlidXRpb24iOiI2ZGVlM2JlNDMwOGM0NmIxODg0MjRmNDczZjdmOWE5OCIsImlzcyI6Imh0dHBzOi8vbGF4YXJ4YW1lcy5jb20iLCJhdWQiOiJodHRwczovL2xheGFyeGFtZXMuY29tIiwidGltZUJhc2UiOjE3MjU0MjYwMDAsInRpbWVGcmFtZXMiOltbMCw3Ml1dLCJleHAiOjE3MjU5MDI1OTIwMDAsImlhdCI6MTcyNTgwNTM5MjAwMCwibmJmIjoxNzI1ODA1Mzg3MDAwfQ.qkx_um6XkA0CkitBHcm7S4q6NOb3_2w8WLdTXIuyeig&_t=1725805392&hash=c-6314325986112&_tc=1704883461
