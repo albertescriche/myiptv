@@ -75,7 +75,7 @@ rtp://239.186.68.43:10000
 rtp://239.186.68.160:10000
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg TV" tvg-logo="https://reelworld.com/assets/images/marketing/bloomberg/bloomberg-logo@2x.png" tvg-chno="034" channel-id="034" group-title="NEWS",Bloomberg TV
 rtp://239.186.68.125:10000
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://static.epg.best/uk/Channel4.uk.png" tvg-chno="035" channel-id="035" group-title="ENG",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://www.bridgeclassiccars.co.uk/wp-content/uploads/2016/07/Channel-4-Logo.png" tvg-chno="035" channel-id="035" group-title="ENG",Channel 4
 rtp://239.186.68.40:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://coachmikeblogs.com/wp-content/uploads/2016/09/cnn-logo-white.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
