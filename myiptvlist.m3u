@@ -5,7 +5,7 @@
 #EXTREM:catalan
 #EXTINF:-1 tvg-id="tv3.cat" tvg-name="TV3" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/TV3-blanc.png" tvg-chno="001" channel-id="001" group-title="CAT",TV3
 https://directes3-tv-cat.3cat.cat/live-content/tv3-hls/master.m3u8
-#EXTINF:-1 tvg-id="324.cat" tvg-name="324" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/324-en-DIRECTO-Online-en-vivo-en-directe.png" tvg-chno="002" channel-id="002" group-title="NEWS",324
+#EXTINF:-1 tvg-id="324.cat" tvg-name="324" tvg-logo="https://www.aequitasadvocatsimediadors.eu/wp-content/uploads/2018/04/logotip_324-200.png" tvg-chno="002" channel-id="002" group-title="NEWS",324
 http://directes-tv-int.3cat.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="SX3.cat" tvg-name="SX3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/640px-SX3_logo.svg.png" tvg-chno="003" channel-id="003" group-title="NENS",SX3
 https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
