@@ -35,7 +35,7 @@ rtp://239.186.68.175:10000
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-15.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://static.epg.best/de/BR.de.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://kletterfestival.com/wp-content/uploads/2024/05/BR_230410_ws_rgb.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
 rtp://239.186.68.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
@@ -63,7 +63,7 @@ rtp://239.186.68.189:10000
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/ZDFinfo_Logo_in_weiss.png" tvg-chno="029" channel-id="029" group-title="NEWS",ZDFinfo
 rtp://239.186.68.32:10000
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Toggo-Logo.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://images.plus.rtl.de/watch/704067/artwork_square/3s-fp-49-jf/toggolino.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ / Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
 rtp://239.186.68.175:10000
