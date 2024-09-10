@@ -54,6 +54,12 @@
     <channel update="i" site="tv.blue.ch" site_id="142##790b45c4-3b7b-4349-b3db-3eebad868ce9" xmltv_id="DW Englisch">DW Englisch</channel>
     <channel update="i" site="tv.blue.ch" site_id="639##34454073-e3b3-4e90-accb-3db0d723bce1" xmltv_id="TVE Internacional">TVE Internacional</channel>
     <channel update="i" site="tv.blue.ch" site_id="71##ddd6d02f-f18d-4dbb-88dd-fcb528506e27" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="tv.blue.ch" site_id="1030##add287ac-bf2c-2200-7048-bdbaa361d089" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="tv.blue.ch" site_id="89##1c18b213-5df5-46bf-9eab-e162c3fbefbf" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="tvtv.ch" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tv.blue.ch" site_id="655##72688699-d81c-4e75-8f2a-388c4afdd7be" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
+
+
 
     <channel update="i" site="ccma.cat" site_id="tv3##tv3" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="ccma.cat" site_id="324##324" xmltv_id="324">324</channel>
@@ -63,7 +69,6 @@
     <channel update="i" site="ccma.cat" site_id="tv3cat##tvi" xmltv_id="TV3 CAT">TV3 CAT</channel>
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
     <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
-    <channel update="i" site="plutotv.de" site_id="5be1c3f9851dd5632e2c91b2" xmltv_id="Pluto TV Nature">Pluto TV Nature</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
     
   </channels>
