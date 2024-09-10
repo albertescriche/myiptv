@@ -17,7 +17,7 @@ https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://static.epg.best/ch/SRFInfo.ch.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://www.neon-free.ch/media/srf_logo_logotype.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN-1.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
@@ -33,13 +33,13 @@ rtp://239.186.70.116:10000
 rtp://239.186.68.175:10000
 #EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-15.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://neon-brand.com/wp-content/uploads/2015/04/arte-logo.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://kletterfestival.com/wp-content/uploads/2024/05/BR_230410_ws_rgb.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
 rtp://239.186.68.26:10000
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://static.epg.best/de/HGTV.de.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV (deu)
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-logo="https://www.synlawn.com/wp-content/uploads/2024/01/hgtv.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2023/01/31/aa6256717794af8d6e3acae4ecd4876d/logo-euronews-transparent-on-white-rgb.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
@@ -51,9 +51,9 @@ rtp://239.186.68.28:10000
 rtp://239.186.68.17:10000
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/pro7-maxx.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
 rtp://239.186.70.87:10000
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://static.epg.best/de/sixx.de.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/sixx.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 rtp://239.186.68.34:10000
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/eb/42423423-0.png/revision/latest?cb=20190907124702&path-prefix=pl" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://www.knie.ch/fileadmin/_processed_/8/8/csm_Tele_M1_schw._Logo_weiss_Hintergrund_64bedc25f5.png" tvg-chno="026" channel-id="026" group-title="DEU",Tele M1
 rtp://239.186.68.102:10000
@@ -63,9 +63,9 @@ rtp://239.186.68.189:10000
 rtp://239.186.66.202:10000
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/ZDFinfo_Logo_in_weiss.png" tvg-chno="029" channel-id="029" group-title="NEWS",ZDFinfo
 rtp://239.186.68.32:10000
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" tvg-logo="https://images.plus.rtl.de/watch/704067/artwork_square/3s-fp-49-jf/toggolino.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Toggo" tvg-logo="https://images.plus.rtl.de/watch/704067/artwork_square/3s-fp-49-jf/toggolino.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
 rtp://239.186.64.17:10000
-#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="7+ / Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
 rtp://239.186.68.175:10000
 
 #EXTREM:english
@@ -79,7 +79,7 @@ rtp://239.186.68.125:10000
 rtp://239.186.68.40:10000
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://coachmikeblogs.com/wp-content/uploads/2016/09/cnn-logo-white.png" tvg-chno="036" channel-id="036" group-title="NEWS",CNN
 rtp://239.186.70.23:10000
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW Englisch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-chno="037" channel-id="037" group-title="NEWS",DW Englisch
 rtp://239.186.70.249:10000
 #EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82c9f9e0-513d-4075-81fa-05ecdc2cf455/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png" tvg-chno="038" channel-id="038" group-title="NEWS",Euronews E
 rtp://239.186.70.105:10000
@@ -96,11 +96,11 @@ https://dsics8mazj4kk.cloudfront.net/out/v1/6dee3be4308c46b188424f473f7f9a98/ind
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" tvg-chno="043" channel-id="043" ,Cuatro [04]
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVNature.de" tvg-name="Pluto TV Nature" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/solidLogoPNG.png" tvg-chno="044" channel-id="044" group-title="NENS",Pluto TV Nature
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec793-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dd5077d7-0ac1-491c-87dc-536ab13c0313
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5f/N24_Doku_HD_wei%C3%9F.svg/2560px-N24_Doku_HD_wei%C3%9F.svg.png" tvg-chno="044" channel-id="044" group-title="NENS",N24 Doku
+rtp://239.186.66.232:10000
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="https://companieslogo.com/img/orig/WSBC.D-3077e8c4.png" tvg-chno="045" channel-id="045" group-title="NENS",Welt der Wunder TV
+rtp://239.186.68.198:10000
 
-#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/solidLogoPNG.png" tvg-chno="045" channel-id="045" group-title="NENS",Pluto TV Space
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
 
 
 
