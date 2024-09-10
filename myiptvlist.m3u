@@ -94,7 +94,7 @@ https://dsics8mazj4kk.cloudfront.net/out/v1/6dee3be4308c46b188424f473f7f9a98/ind
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" tvg-chno="043" channel-id="043" ,Cuatro [04]
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5f/N24_Doku_HD_wei%C3%9F.svg/2560px-N24_Doku_HD_wei%C3%9F.svg.png" tvg-chno="044" channel-id="044" group-title="NENS",N24 Doku
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="NENS",N24 Doku
 rtp://239.186.66.232:10000
 #EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="https://companieslogo.com/img/orig/WSBC.D-3077e8c4.png" tvg-chno="045" channel-id="045" group-title="NENS",Welt der Wunder TV
 rtp://239.186.68.198:10000
