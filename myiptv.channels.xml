@@ -94,6 +94,8 @@
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
     <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
+	<channel update="i" site="tv.blue.ch" site_id="658##de4dd900-ebbe-4aac-a0ad-d47d1bd8bcb7" xmltv_id="ZDFinfo">ZDFinfo</channel>
+
 
 
 </settings>
