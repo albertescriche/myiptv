@@ -26,8 +26,7 @@
 			or https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/siteini.pack
 			or run SiteIni.Pack.Update.exe which is in the bin folder
   -->
-        <channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
-<channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
     <channel update="i" site="tv.blue.ch" site_id="401##d5156e2e-bb98-423e-a46e-589ac75dac29" xmltv_id="SRF zwei">SRF zwei</channel>
     <channel update="i" site="tv.blue.ch" site_id="400##52404018-4781-4464-8d4c-a4e2f1c9deee" xmltv_id="SRF info">SRF info</channel>
     <channel update="i" site="tv.blue.ch" site_id="25##03487477-8e1c-47bb-8010-f4ea7a93790e" xmltv_id="Das Erste">Das Erste</channel>
