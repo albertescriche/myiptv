@@ -96,8 +96,6 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="NENS",N24 Doku
 rtp://239.186.66.232:10000
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="https://companieslogo.com/img/orig/WSBC.D-3077e8c4.png" tvg-chno="045" channel-id="045" group-title="NENS",Welt der Wunder TV
-rtp://239.186.68.198:10000
 
 
 
