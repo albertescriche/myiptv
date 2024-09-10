@@ -1,7 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="tv.blue.ch">
-  <channels>
-    <channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files_0.zip -->
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59</user-agent>
+  <!-- to get access to sites which require your credentials -->
+  <credentials user="albescri" password="albert78">site name</credentials>
+  <!-- for siteini's that need a decrypt_userkey-->
+  <decryptkey site="site-name">decrypt_userkey</decryptkey>
+  <!-- add the correct license id values in the next line -->
+  <license wg-username="albescri" registered-email="albert.escriche@gmail.com" password="966b08cb">To force a license update; replace this text with the letter f</license>
+  <logging>on</logging>
+  <retry time-out="10">4</retry>
+  <!-- timespan 0 is one day -->
+  <timespan>0</timespan>
+  <update>i</update>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+			or https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/siteini.pack
+			or run SiteIni.Pack.Update.exe which is in the bin folder
+  -->
+        <channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
+<channel update="i" site="tv.blue.ch" site_id="399##74f9021a-675e-4cfe-b46e-fcaa495a0676" xmltv_id="SRF 1">SRF 1</channel>
     <channel update="i" site="tv.blue.ch" site_id="401##d5156e2e-bb98-423e-a46e-589ac75dac29" xmltv_id="SRF zwei">SRF zwei</channel>
     <channel update="i" site="tv.blue.ch" site_id="400##52404018-4781-4464-8d4c-a4e2f1c9deee" xmltv_id="SRF info">SRF info</channel>
     <channel update="i" site="tv.blue.ch" site_id="25##03487477-8e1c-47bb-8010-f4ea7a93790e" xmltv_id="Das Erste">Das Erste</channel>
@@ -59,8 +85,6 @@
     <channel update="i" site="tvtv.ch" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="tv.blue.ch" site_id="655##72688699-d81c-4e75-8f2a-388c4afdd7be" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
 
-
-
     <channel update="i" site="ccma.cat" site_id="tv3##tv3" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="ccma.cat" site_id="324##324" xmltv_id="324">324</channel>
     <channel update="i" site="ccma.cat" site_id="sx3##cs3" xmltv_id="SX3">SX3</channel>
@@ -70,6 +94,6 @@
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
     <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
-    
-  </channels>
-</site>
+
+
+</settings>
