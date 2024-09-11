@@ -19,7 +19,7 @@ rtp://239.186.68.1:10000
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://shapemedia.ch/wp-content/uploads/2022/02/srf-300x135.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN-1.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://unpay.tv/images/senderlogos/3plus.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
 rtp://239.186.68.14:10000
