@@ -94,7 +94,7 @@ rtp://239.186.68.178:10000
 #EXTINF:-1 tvg-id="Televisió L'Hospitalet.cat" tvg-name="Televisió L'Hospitalet" tvg-logo="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" tvg-chno="042" channel-id="042" group-title="CAT",Televisió L'Hospitalet
 http://liveingesta118.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://nosum.net/wp-content/uploads/2022/04/Logo-Cuatro-al-dia.png" tvg-chno="043" channel-id="043" group-title="NEWS",Cuatro [04]
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="043" channel-id="043" group-title="NEWS",Cuatro [04]
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="DEU",N24 Doku
