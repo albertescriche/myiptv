@@ -21,13 +21,13 @@ rtp://239.186.68.2:10000
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN-1.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://static.epg.best/ch/3Plus.ch.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://unpay.tv/images/senderlogos/3plus.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
 rtp://239.186.68.14:10000
-#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://static.epg.best/ch/4Plus.ch.png" tvg-chno="010" channel-id="010" group-title="DEU",4+
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://unpay.tv/images/senderlogos/4plus.png" tvg-chno="010" channel-id="010" group-title="DEU",4+
 rtp://239.186.68.142:10000
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://static.epg.best/ch/5Plus.ch.png" tvg-chno="011" channel-id="011" group-title="DEU",5+
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://unpay.tv/images/senderlogos/5plus.png" tvg-chno="011" channel-id="011" group-title="DEU",5+
 rtp://239.186.68.195:10000
-#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://static.epg.best/ch/6Plus.ch.png" tvg-chno="012" channel-id="012" group-title="DEU",6+
+#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://unpay.tv/images/senderlogos/6plus.png" tvg-chno="012" channel-id="012" group-title="DEU",6+
 rtp://239.186.70.116:10000
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/44699-1-0-19-C3A6-271D-F001-FFFF0000-0-0-0-png/" tvg-chno="013" channel-id="013" group-title="DEU",kabel eins Doku
 rtp://239.186.70.86:10000
