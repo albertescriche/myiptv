@@ -15,7 +15,7 @@ https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://www.lighthousereports.com/wp-content/uploads/2021/10/SRF-Rundschau.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.epg.best/ch/SRF2.ch.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/250px-Logo_SRF_zwei.svg.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://shapemedia.ch/wp-content/uploads/2022/02/srf-300x135.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
@@ -37,7 +37,7 @@ rtp://239.186.68.9:10000
 rtp://239.186.68.11:10000
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://kletterfestival.com/wp-content/uploads/2024/05/BR_230410_ws_rgb.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel D" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
 #EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-logo="https://www.synlawn.com/wp-content/uploads/2024/01/hgtv.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV
 rtp://239.186.74.40:10000
