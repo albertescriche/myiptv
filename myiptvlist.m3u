@@ -13,11 +13,11 @@ https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
 https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 
 #EXTREM:german
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://www.lighthousereports.com/wp-content/uploads/2021/10/SRF-Rundschau.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/120px-Logo_SRF_1.svg.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/120px-Logo_SRF_zwei.svg.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://shapemedia.ch/wp-content/uploads/2022/02/srf-300x135.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20140815120236%21Logo_SRF_info.svg/120px-Logo_SRF_info.svg.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
 rtp://239.186.68.27:10000
