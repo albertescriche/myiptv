@@ -15,7 +15,7 @@ https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/120px-Logo_SRF_1.svg.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/120px-Logo_SRF_zwei.svg.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF2 HD SRF zwei
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/120px-Logo_SRF_zwei.svg.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20140815120236%21Logo_SRF_info.svg/120px-Logo_SRF_info.svg.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
