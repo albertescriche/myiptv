@@ -14,9 +14,9 @@ https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal_4.cat" tvg-name="Canal 4" tvg-logo="https://www.grup4.com/wp-content/uploads/2022/09/canal4-television.png" tvg-chno="005" channel-id="005" group-title="CAT",Canal 4 Televisió
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="24Horas.cat" tvg-name="24 Horas" tvg-logo="https://boesch-sanitaer.ch/wp-content/uploads/2015/09/24h-Service-140_weiss.png" tvg-chno="006" channel-id="006" group-title="NEWS",24 horas Cataluña
-https://list.iptvcat.com/my_list/s/ee6d6e41fae96f3c0a9b567190dd4fac.m3u8
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="007" channel-id="007" group-title="NEWS",TVE Internacional
-rtp://239.186.68.178:10000
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="La1.cat" tvg-name="La 1 Cataluña" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="007" channel-id="007" group-title="NEWS",La 1 Cataluña
+https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_720.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="008" channel-id="008" group-title="NEWS",Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
