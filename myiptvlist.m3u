@@ -11,35 +11,43 @@ http://directes-tv-int.3cat.cat/live-content/canal324-hls/master.m3u8
 https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal_33.cat" tvg-name="Canal 33" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/33-blanc.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
 https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal_4.cat" tvg-name="Canal 4" tvg-logo="https://www.grup4.com/wp-content/uploads/2022/09/canal4-television.png" tvg-chno="005" channel-id="005" group-title="CAT",Canal 4 Televisió
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-id="24Horas.cat" tvg-name="24 Horas" tvg-logo="https://boesch-sanitaer.ch/wp-content/uploads/2015/09/24h-Service-140_weiss.png" tvg-chno="006" channel-id="006" group-title="NEWS",24 horas Cataluña
+https://list.iptvcat.com/my_list/s/ee6d6e41fae96f3c0a9b567190dd4fac.m3u8
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="007" channel-id="007" group-title="NEWS",TVE Internacional
+rtp://239.186.68.178:10000
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="008" channel-id="008" group-title="NEWS",Cuatro
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 #EXTREM:german
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/480px-Logo_SRF_1.svg.png" tvg-chno="005" channel-id="005" group-title="DEU",SRF 1
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/480px-Logo_SRF_1.svg.png" tvg-chno="009" channel-id="009" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/480px-Logo_SRF_zwei.svg.png" tvg-chno="006" channel-id="006" group-title="DEU",SRF zwei
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/480px-Logo_SRF_zwei.svg.png" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20140815120236%21Logo_SRF_info.svg/480px-Logo_SRF_info.svg.png" tvg-chno="007" channel-id="007" group-title="NEWS",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20140815120236%21Logo_SRF_info.svg/480px-Logo_SRF_info.svg.png" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="008" channel-id="008" group-title="DEU",3sat
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="012" channel-id="012" group-title="DEU",3sat
 rtp://239.186.68.27:10000
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://unpay.tv/images/senderlogos/3plus.png" tvg-chno="009" channel-id="009" group-title="DEU",3+
+#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://unpay.tv/images/senderlogos/3plus.png" tvg-chno="013" channel-id="013" group-title="DEU",3+
 rtp://239.186.68.14:10000
-#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://unpay.tv/images/senderlogos/4plus.png" tvg-chno="010" channel-id="010" group-title="DEU",4+
+#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+" tvg-logo="https://unpay.tv/images/senderlogos/4plus.png" tvg-chno="014" channel-id="014" group-title="DEU",4+
 rtp://239.186.68.142:10000
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://unpay.tv/images/senderlogos/5plus.png" tvg-chno="011" channel-id="011" group-title="DEU",5+
+#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+" tvg-logo="https://unpay.tv/images/senderlogos/5plus.png" tvg-chno="015" channel-id="015" group-title="DEU",5+
 rtp://239.186.68.195:10000
-#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://unpay.tv/images/senderlogos/6plus.png" tvg-chno="012" channel-id="012" group-title="DEU",6+
+#EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://unpay.tv/images/senderlogos/6plus.png" tvg-chno="016" channel-id="016" group-title="DEU",6+
 rtp://239.186.70.116:10000
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/44699-1-0-19-C3A6-271D-F001-FFFF0000-0-0-0-png/" tvg-chno="013" channel-id="013" group-title="DEU",kabel eins Doku
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/44699-1-0-19-C3A6-271D-F001-FFFF0000-0-0-0-png/" tvg-chno="017" channel-id="017" group-title="DEU",kabel eins Doku
 rtp://239.186.70.86:10000
-#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="014" channel-id="014" group-title="DEU",Das Erste
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="018" channel-id="018" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://neon-brand.com/wp-content/uploads/2015/04/arte-logo.png" tvg-chno="015" channel-id="015" group-title="DEU",Arte Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://neon-brand.com/wp-content/uploads/2015/04/arte-logo.png" tvg-chno="019" channel-id="019" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://kletterfestival.com/wp-content/uploads/2024/05/BR_230410_ws_rgb.png" tvg-chno="016" channel-id="016" group-title="DEU",BR
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://kletterfestival.com/wp-content/uploads/2024/05/BR_230410_ws_rgb.png" tvg-chno="020" channel-id="020" group-title="DEU",BR
 rtp://239.186.68.26:10000
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="017" channel-id="017" group-title="NENS",Disney Channel D
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" tvg-logo="https://beforeifly.com/new/wp-content/uploads/2016/09/logo-disney-white.png" tvg-chno="021" channel-id="021" group-title="NENS",Disney Channel D
 rtp://239.186.64.116:10000
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-logo="https://www.synlawn.com/wp-content/uploads/2024/01/hgtv.png" tvg-chno="018" channel-id="018" group-title="DEU",HGTV
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-logo="https://www.synlawn.com/wp-content/uploads/2024/01/HGTV-Logo-white.png" tvg-chno="022" channel-id="022" group-title="STYLE",HGTV
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2023/01/31/aa6256717794af8d6e3acae4ecd4876d/logo-euronews-transparent-on-white-rgb.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
@@ -65,8 +73,10 @@ rtp://239.186.66.202:10000
 rtp://239.186.68.32:10000
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Toggo" tvg-logo="https://images.plus.rtl.de/watch/704067/artwork_square/3s-fp-49-jf/toggolino.png" tvg-chno="030" channel-id="030" group-title="NENS",Super RTL
 rtp://239.186.64.17:10000
-#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS,7+ / Nick
+#EXTINF:-1 tvg-id="7Plus.ch" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS",7+ / Nick
 rtp://239.186.68.175:10000
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="DEU",N24 Doku
+rtp://239.186.66.232:10000
 
 #EXTREM:english
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://www.pngkey.com/png/full/222-2229293_35pm-subscribe-to-watch-watch-now-bbc-two.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
@@ -86,17 +96,6 @@ rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://logodix.com/logo/1075501.png" tvg-chno="039" channel-id="039" group-title="ENG",Film Four
 rtp://239.186.64.172:10000
 
-#EXTREM:spanish
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://boesch-sanitaer.ch/wp-content/uploads/2015/09/24h-Service-140_weiss.png" tvg-chno="040" channel-id="040" group-title="NEWS",Canal 24 Horas
-https://list.iptvcat.com/my_list/s/ee6d6e41fae96f3c0a9b567190dd4fac.m3u8
-#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TTVE Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="041" channel-id="041" group-title="NEWS",TVE Internacional
-rtp://239.186.68.178:10000
-
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="043" channel-id="043" group-title="NEWS",Cuatro [04]
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="DEU",N24 Doku
-rtp://239.186.66.232:10000
 
 
 
