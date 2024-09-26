@@ -81,7 +81,7 @@
     <channel update="i" site="tv.blue.ch" site_id="71##ddd6d02f-f18d-4dbb-88dd-fcb528506e27" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
     <channel update="i" site="tv.blue.ch" site_id="1030##add287ac-bf2c-2200-7048-bdbaa361d089" xmltv_id="N24 Doku">N24 Doku</channel>
     <channel update="i" site="tv.blue.ch" site_id="89##1c18b213-5df5-46bf-9eab-e162c3fbefbf" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="tvtv.ch" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="sunriseupctv.ch" site_id="SV06317" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="tv.blue.ch" site_id="655##72688699-d81c-4e75-8f2a-388c4afdd7be" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
 
     <channel update="i" site="ccma.cat" site_id="tv3##tv3" xmltv_id="TV3">TV3</channel>
@@ -95,6 +95,9 @@
     <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
     <channel update="i" site="tv.blue.ch" site_id="658##de4dd900-ebbe-4aac-a0ad-d47d1bd8bcb7" xmltv_id="ZDFinfo">ZDFinfo</channel>
     <channel update="i" site="tv.blue.ch" site_id="920##fa2d85fe-bf6f-1200-7048-bdbaa361d0b5" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
+    <channel update="i" site="tivify.tv" site_id="LOC10" xmltv_id="Canal 4 Televisió">Canal 4 Televisió</channel>
+
 
 
 
