@@ -17,7 +17,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
 #EXTINF:-1 tvg-id="La1.cat" tvg-name="La 1 Cataluña" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="007" channel-id="007" group-title="NEWS",La 1 Cataluña
 https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_720.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="008" channel-id="008" group-title="NEWS",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="008" channel-id="008" group-title="NEWS",Cuatro [04]
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 #EXTREM:german
