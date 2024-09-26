@@ -88,7 +88,7 @@ rtp://239.186.64.172:10000
 
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="https://boesch-sanitaer.ch/wp-content/uploads/2015/09/24h-Service-140_weiss.png" tvg-chno="040" channel-id="040" group-title="NEWS",Canal 24 Horas
-rtp://239.186.68.45:10000
+https://list.iptvcat.com/my_list/s/ee6d6e41fae96f3c0a9b567190dd4fac.m3u8
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TTVE Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="041" channel-id="041" group-title="NEWS",TVE Internacional
 rtp://239.186.68.178:10000
 
