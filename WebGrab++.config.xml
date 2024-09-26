@@ -97,6 +97,9 @@
     <channel update="i" site="tv.blue.ch" site_id="920##fa2d85fe-bf6f-1200-7048-bdbaa361d0b5" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
     <channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
     <channel update="i" site="tivify.tv" site_id="LOC10" xmltv_id="Canal 4 Televisió">Canal 4 Televisió</channel>
+	<channel update="i" site="rtve.es" site_id="catalunya##la1" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
+	<channel update="i" site="rtve.es" site_id="catalunya##la2" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
+	<channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
 
 
 
