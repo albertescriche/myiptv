@@ -91,14 +91,13 @@
     <channel update="i" site="ccma.cat" site_id="esport3##es3" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="ccma.cat" site_id="tv3cat##tvi" xmltv_id="TV3 CAT">TV3 CAT</channel>
     <channel update="i" site="tivify.tv" site_id="LOC11" xmltv_id="Televisió L'Hospitalet">Televisió L'Hospitalet</channel>
-    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
+    <channel update="i" site="vodafone.es" site_id="454" xmltv_id="Cuatro HD">Cuatro HD</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dbc2f98777f2e0009934ae7" xmltv_id="Pluto TV Space">Pluto TV Space</channel>
     <channel update="i" site="tv.blue.ch" site_id="658##de4dd900-ebbe-4aac-a0ad-d47d1bd8bcb7" xmltv_id="ZDFinfo">ZDFinfo</channel>
     <channel update="i" site="tv.blue.ch" site_id="920##fa2d85fe-bf6f-1200-7048-bdbaa361d0b5" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
-    <channel update="i" site="tivify.tv" site_id="LOC10" xmltv_id="Canal 4 Televisió">Canal 4 Televisió</channel>
-    <channel update="i" site="rtve.es" site_id="catalunya##la1" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
+    <channel update="i" site="vodafone.es" site_id="1419" xmltv_id="TVE HD">TVE HD</channel>
     <channel update="i" site="rtve.es" site_id="catalunya##la2" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
-    <channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
+    <channel update="i" site="vodafone.es" site_id="472" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
 
 
 
