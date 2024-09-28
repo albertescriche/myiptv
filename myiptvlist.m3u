@@ -11,14 +11,7 @@ http://directes-tv-int.3cat.cat/live-content/canal324-hls/master.m3u8
 https://directes-tv-cat.3cat.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal_33.cat" tvg-name="Canal 33" tvg-logo="https://www.punttv.net/wp-content/uploads/2019/08/33-blanc.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
 https://directes-tv-cat.3cat.cat/live-content/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="Canal_4.cat" tvg-name="Canal 4" tvg-logo="https://www.grup4.com/wp-content/uploads/2022/09/canal4-television.png" tvg-chno="005" channel-id="005" group-title="CAT",Canal 4 Televisió
-https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="24Horas.cat" tvg-name="24 Horas" tvg-logo="https://boesch-sanitaer.ch/wp-content/uploads/2015/09/24h-Service-140_weiss.png" tvg-chno="006" channel-id="006" group-title="NEWS",24 horas Cataluña
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
-#EXTINF:-1 tvg-id="La1.cat" tvg-name="La 1 Cataluña" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="007" channel-id="007" group-title="NEWS",La 1 Cataluña
-https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_720.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="008" channel-id="008" group-title="NEWS",Cuatro [04]
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+
 
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/480px-Logo_SRF_1.svg.png" tvg-chno="009" channel-id="009" group-title="DEU",SRF 1
@@ -96,7 +89,12 @@ rtp://239.186.70.105:10000
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film Four" tvg-logo="https://logodix.com/logo/1075501.png" tvg-chno="039" channel-id="039" group-title="ENG",Film Four
 rtp://239.186.64.172:10000
 
-
-
+#EXTREM:spanish
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://img2.rtve.es/p/120150/" tvg-chno="039" channel-id="039" group-title="NEWS",Canal 24 Horas
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="Tve.es" tvg-name="TVE HD" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/v/tve.png" tvg-chno="040" channel-id="040" group-title="NEWS",TVE HD
+https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro HD" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="041" channel-id="041" group-title="NEWS",Cuatro HD
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 
