@@ -32,7 +32,7 @@ rtp://239.186.68.142:10000
 rtp://239.186.68.195:10000
 #EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://unpay.tv/images/senderlogos/6plus.png" tvg-chno="016" channel-id="016" group-title="DEU",6+
 rtp://239.186.70.116:10000
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/44699-1-0-19-C3A6-271D-F001-FFFF0000-0-0-0-png/" tvg-chno="017" channel-id="017" group-title="DEU",kabel eins Doku
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/547cafeed94195f6e0482dbf5a692b33.118440.PNG" tvg-chno="017" channel-id="017" group-title="DEU",kabel eins Doku
 rtp://239.186.70.86:10000
 #EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="018" channel-id="018" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
