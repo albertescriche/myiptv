@@ -20,7 +20,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/c1/SRFZweiekr.png/revision/latest/scale-to-width-down/1000?cb=20240321163630&path-prefix=pl/480px-Logo_SRF_zwei.svg.png" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20140815120236%21Logo_SRF_info.svg/480px-Logo_SRF_info.svg.png" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20140815120236%21Logo_SRF_info.svg" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="012" channel-id="012" group-title="DEU",3sat
 rtp://239.186.68.27:10000
