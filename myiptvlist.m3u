@@ -48,7 +48,7 @@ rtp://239.186.74.40:10000
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://gaensehaut-medien.de/site/assets/files/1044/logo_kabel1.png" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
 rtp://239.186.68.15:10000
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://www.vhv.rs/dpng/d/604-6045585_kika-von-ard-und-zdf-kika-hd-png.png" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://zypix.de/wp-content/uploads/2020/04/prosieben.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 rtp://239.186.68.17:10000
