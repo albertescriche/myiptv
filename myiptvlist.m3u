@@ -16,7 +16,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 
 
 #EXTREM:german
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021643%21Logo_SRF_1.svg/480px-Logo_SRF_1.svg.png" tvg-chno="009" channel-id="009" group-title="DEU",SRF 1
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021757%21Logo_SRF_1.svg/120px-Logo_SRF_1.svg.png" tvg-chno="009" channel-id="009" group-title="DEU",SRF 1
 udp://@239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/4/42/20141205021931%21Logo_SRF_zwei.svg/480px-Logo_SRF_zwei.svg.png" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
