@@ -74,7 +74,7 @@ rtp://239.186.68.175:10000
 rtp://239.186.66.232:10000
 
 #EXTREM:english
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://www.pngkey.com/png/full/222-2229293_35pm-subscribe-to-watch-watch-now-bbc-two.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://adriancabello.com/wp-content/uploads/2021/06/pngfind.com-bbc-logo-png-6836449-768x219.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News" tvg-logo="https://i0.wp.com/thankyouday.org.uk/wp-content/uploads/2023/07/0bbcnews.png" tvg-chno="033" channel-id="033" group-title="NEWS",BBC News
 rtp://239.186.68.160:10000
