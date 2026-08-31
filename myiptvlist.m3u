@@ -21,7 +21,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 rtp://239.186.68.1:10000
 #EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Snapshot_-_54.png" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20140815120236%21Logo_SRF_info.svg" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
+#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/0f328245db1c6143973683538e5c9c5c.99249.PNG" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
 #EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="012" channel-id="012" group-title="DEU",3sat
 rtp://239.186.68.27:10000
@@ -35,7 +35,7 @@ rtp://239.186.68.195:10000
 rtp://239.186.70.116:10000
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/547cafeed94195f6e0482dbf5a692b33.118440.PNG" tvg-chno="017" channel-id="017" group-title="DEU",kabel eins Doku
 rtp://239.186.70.86:10000
-#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://www.doclights.de/wp-content/uploads/2021/02/image-11.png" tvg-chno="018" channel-id="018" group-title="DEU",Das Erste
+#EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/2ea40dbc42380d6da30e6ad4f5a8d03f.90447.PNG" tvg-chno="018" channel-id="018" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://neon-brand.com/wp-content/uploads/2015/04/arte-logo.png" tvg-chno="019" channel-id="019" group-title="DEU",Arte Deutsch
 rtp://239.186.68.11:10000
@@ -47,7 +47,7 @@ rtp://239.186.64.116:10000
 rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2023/01/31/aa6256717794af8d6e3acae4ecd4876d/logo-euronews-transparent-on-white-rgb.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://hansesecure.de/wp-content/uploads/2023/04/logo-kabel-1.png" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/831d7188f4c913e41c104c8da055e248.88602.PNG" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
 rtp://239.186.68.15:10000
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
@@ -71,7 +71,7 @@ rtp://239.186.68.32:10000
 rtp://239.186.64.17:10000
 #EXTINF:-1 tvg-id="7Plus.ch" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NickWhite.png" tvg-chno="031" channel-id="031" group-title="NENS",7+ / Nick
 rtp://239.186.68.175:10000
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://bilder.wunschliste.de/logos/hr-inv/800.png" tvg-chno="044" channel-id="044" group-title="DEU",N24 Doku
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/9dec68c6d3713c55594cbbb5b83ecef5.106374.PNG" tvg-chno="044" channel-id="044" group-title="DEU",N24 Doku
 rtp://239.186.66.232:10000
 
 #EXTREM:english
