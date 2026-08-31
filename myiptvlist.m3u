@@ -3,7 +3,7 @@
 #PLAYLIST: blue tv channels free
 
 #EXTREM:catalan
-#EXTINF:-1 tvg-id="3cat.cat/tv3" tvg-name="tv3" tvg-logo="https://highvideo.tv/wp-content/uploads/2025/09/TV3.png" tvg-chno="001" channel-id="001" group-title="CAT",TV3
+#EXTINF:-1 tvg-id="3cat.cat/tv3/programacio/canal-tv3cat" tvg-name="canal-tv3cat" tvg-logo="https://highvideo.tv/wp-content/uploads/2025/09/TV3.png" tvg-chno="001" channel-id="001" group-title="CAT",TV3
 #https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="3cat.cat/3catinfo" tvg-name="3catinfo" tvg-logo="https://static.wixstatic.com/media/efdc59_b12a2cb41a8447b6aeb70564198aeed5~mv2.png" tvg-chno="002" channel-id="002" group-title="NEWS",324
