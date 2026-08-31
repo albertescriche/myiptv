@@ -96,5 +96,3 @@ rtp://239.186.64.172:10000
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://seeklogo.com/images/T/tve-catalunya-logo-F1B5AF3634-seeklogo.com.png" tvg-chno="040" channel-id="040" group-title="NEWS",La 1 Catalunya
 http://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.mpd
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://pausabate.com/wp-content/uploads/2023/06/image-22.png" tvg-chno="041" channel-id="041" group-title="NEWS",Cuatro
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:9_premium.smil/index.m3u8
