@@ -34,7 +34,7 @@ rtp://239.186.68.195:10000
 #EXTINF:-1 tvg-id="6Plus.ch" tvg-name="6+ CH" tvg-logo="https://unpay.tv/images/senderlogos/6plus.png" tvg-chno="016" channel-id="016" group-title="DEU",6+
 rtp://239.186.70.116:10000
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/547cafeed94195f6e0482dbf5a692b33.118440.PNG" tvg-chno="017" channel-id="017" group-title="DEU",kabel eins Doku
-rtp://239.186.70.86:10000
+https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-id="daserste" tvg-name="Das Erste" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/2ea40dbc42380d6da30e6ad4f5a8d03f.90447.PNG" tvg-chno="018" channel-id="018" group-title="DEU",Das Erste
 rtp://239.186.68.9:10000
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte Deutsch" tvg-logo="https://neon-brand.com/wp-content/uploads/2015/04/arte-logo.png" tvg-chno="019" channel-id="019" group-title="DEU",Arte Deutsch
@@ -48,7 +48,7 @@ rtp://239.186.74.40:10000
 #EXTINF:-1 tvg-id="Euronews.de" tvg-name="Euronews D" tvg-logo="https://media-s3-us-east-1.ceros.com/euronews/images/2023/01/31/aa6256717794af8d6e3acae4ecd4876d/logo-euronews-transparent-on-white-rgb.png" tvg-chno="019" channel-id="019" group-title="NEWS",Euronews D
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/831d7188f4c913e41c104c8da055e248.88602.PNG" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
-rtp://239.186.68.15:10000
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://zypix.de/wp-content/uploads/2020/04/prosieben.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
