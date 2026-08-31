@@ -52,9 +52,9 @@ https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://zypix.de/wp-content/uploads/2020/04/prosieben.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
-rtp://239.186.68.17:10000
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/pro7-maxx.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
-rtp://239.186.70.87:10000
+https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/sixx.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 rtp://239.186.68.34:10000
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://thumbs.wbm.im/pw/medium/ead27da13398f65d5bf206829f525cec.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
