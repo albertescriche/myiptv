@@ -8,9 +8,9 @@
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="3cat.cat/3catinfo" tvg-name="3catinfo" tvg-logo="https://static.wixstatic.com/media/efdc59_b12a2cb41a8447b6aeb70564198aeed5~mv2.png" tvg-chno="002" channel-id="002" group-title="NEWS",324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="3cat.cat/sx3" tvg-name="sx3" tvg-logo="https://www.desdelsofa.cat/wp-content/uploads/2022/11/SX3_positiu-1-150x150.png" tvg-chno="003" channel-id="003" group-title="NENS",SX3
+#EXTINF:-1 tvg-id="3cat.cat/3cat/sx3" tvg-name="sx3" tvg-logo="https://www.desdelsofa.cat/wp-content/uploads/2022/11/SX3_positiu-1-150x150.png" tvg-chno="003" channel-id="003" group-title="NENS",SX3
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="3cat.cat/canal-33" tvg-name="canal-33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1920px-33_%28CCMA%29.svg.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
+#EXTINF:-1 tvg-id="3cat.cat/tv3/programacio/canal-33" tvg-name="canal-33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1920px-33_%28CCMA%29.svg.png" tvg-chno="004" channel-id="004" group-title="CAT",Canal 33
 https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="beteve.cat" tvg-name="Betevé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Barcelonatv_logo2005.png" tvg-chno="005" channel-id="005" group-title="CAT",Betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
