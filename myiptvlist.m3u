@@ -93,7 +93,7 @@ rtp://239.186.70.105:10000
 rtp://239.186.64.172:10000
 
 #EXTREM:spanish
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://img2.rtve.es/p/120150/" tvg-chno="039" channel-id="039" group-title="NEWS",Canal 24 Horas
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://jorgesaffie.com/wp-content/uploads/2024/10/Tve-blanco.png" tvg-chno="039" channel-id="039" group-title="NEWS",Canal 24 Horas
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://seeklogo.com/images/T/tve-catalunya-logo-F1B5AF3634-seeklogo.com.png" tvg-chno="040" channel-id="040" group-title="NEWS",La 1 Catalunya
 http://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.mpd
