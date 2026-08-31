@@ -19,7 +19,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfib
 #EXTREM:german
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/29/20141205021757%21Logo_SRF_1.svg/120px-Logo_SRF_1.svg.png" tvg-chno="009" channel-id="009" group-title="DEU",SRF 1
 rtp://239.186.68.1:10000
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Snapshot_-_54.png" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
+#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/47/SF_zwei_transparent.png/revision/latest?cb=20240321161643&path-prefix=pl" tvg-chno="010" channel-id="010" group-title="DEU",SRF zwei
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/0f328245db1c6143973683538e5c9c5c.99249.PNG" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
