@@ -57,7 +57,7 @@ rtp://239.186.68.17:10000
 rtp://239.186.70.87:10000
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/sixx.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 rtp://239.186.68.34:10000
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/e/eb/42423423-0.png/revision/latest?cb=20190907124702&path-prefix=pl" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://thumbs.wbm.im/pw/medium/ead27da13398f65d5bf206829f525cec.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
 rtp://239.186.68.161:10000
 #EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1" tvg-logo="https://www.knie.ch/fileadmin/_processed_/8/8/csm_Tele_M1_schw._Logo_weiss_Hintergrund_64bedc25f5.png" tvg-chno="026" channel-id="026" group-title="DEU",Tele M1
 rtp://239.186.68.102:10000
