@@ -54,7 +54,7 @@ rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://www.andremartin.ch/wp-content/uploads/2018/04/prosieben-1024x1024.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://im.bestcheck.de/download/143912/ProSieben-Maxx_icon-48eb41fef8dee729.jpg?im=BackgroundColor%2Ccolor%3Dffffff%3BResize%3D(320%2C320)%2Caspect%3Dfit%3BAspectCrop%2Csize%3D(1%2C1)%2Cgravity%3DCenter%2CallowExpansion&hash=4a1c274126c20300127baa6f27e46d9ae5c82409468ffa989ba040d6e611ed30" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
-https://s6.hopslan.com/pro7maxxX/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8-VMX/prosiebenmaxx.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/sixx.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="https://thumbs.wbm.im/pw/medium/ead27da13398f65d5bf206829f525cec.png" tvg-chno="025" channel-id="025" group-title="NEWS",Tagesschau24
