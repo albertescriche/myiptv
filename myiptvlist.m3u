@@ -23,7 +23,7 @@ rtp://239.186.68.1:10000
 rtp://239.186.68.2:10000
 #EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/0f328245db1c6143973683538e5c9c5c.99249.PNG" tvg-chno="011" channel-id="011" group-title="NEWS",SRF info
 rtp://239.186.68.202:10000
-#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://www.doclights.de/wp-content/uploads/2024/01/3Sat_Logo_in_weiss_KLEIN.png" tvg-chno="012" channel-id="012" group-title="DEU",3sat
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="3sat" tvg-logo="https://images.squarespace-cdn.com/content/v1/68f601c70188dd31189a8144/948677e0-3fbf-48ed-8944-13d14edfdaca/83i1g87jf6_3sat_Logo_neu.png" tvg-chno="012" channel-id="012" group-title="DEU",3sat
 rtp://239.186.68.27:10000
 #EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+" tvg-logo="https://unpay.tv/images/senderlogos/3plus.png" tvg-chno="013" channel-id="013" group-title="DEU",3+
 rtp://239.186.68.14:10000
@@ -51,9 +51,9 @@ rtp://239.186.70.101:10000
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://zypix.de/wp-content/uploads/2020/04/prosieben.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://www.andremartin.ch/wp-content/uploads/2018/04/prosieben-1024x1024.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/pro7-maxx.png" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://im.bestcheck.de/download/143912/ProSieben-Maxx_icon-48eb41fef8dee729.jpg?im=BackgroundColor%2Ccolor%3Dffffff%3BResize%3D(320%2C320)%2Caspect%3Dfit%3BAspectCrop%2Csize%3D(1%2C1)%2Cgravity%3DCenter%2CallowExpansion&hash=4a1c274126c20300127baa6f27e46d9ae5c82409468ffa989ba040d6e611ed30" tvg-chno="023" channel-id="023" group-title="DEU",ProSieben MAXX
 https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://www.sendungverpasst.de/images/stations/white/sixx.png" tvg-chno="024" channel-id="024" group-title="DEU",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
@@ -75,7 +75,7 @@ rtp://239.186.68.175:10000
 rtp://239.186.66.232:10000
 
 #EXTREM:english
-#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://adriancabello.com/wp-content/uploads/2021/06/pngfind.com-bbc-logo-png-6836449-768x219.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
+#EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC One" tvg-logo="https://www.pngkey.com/png/full/222-2229293_35pm-subscribe-to-watch-watch-now-bbc-two.png" tvg-chno="032" channel-id="032" group-title="ENG",BBC One
 rtp://239.186.68.43:10000
 #EXTINF:-1 tvg-id="C16.api.telerama.fr" tvg-name="BBC News" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/0609d5fa9d55db232eb7513fcfe1f21d.36844.PNG" tvg-chno="033" channel-id="033" group-title="NEWS",BBC News
 rtp://239.186.68.160:10000
@@ -95,5 +95,5 @@ rtp://239.186.64.172:10000
 #EXTREM:spanish
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://jorgesaffie.com/wp-content/uploads/2024/10/Tve-blanco.png" tvg-chno="039" channel-id="039" group-title="NEWS",Canal 24 Horas
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-la2_cat.png" tvg-chno="040" channel-id="040" group-title="NEWS",La 1 Catalunya
-http://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.mpd
+##EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-la2_cat.png" tvg-chno="040" channel-id="040" group-title="NEWS",La 1 Catalunya
+#http://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.mpd
