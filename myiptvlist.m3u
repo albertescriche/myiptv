@@ -49,7 +49,7 @@ rtp://239.186.74.40:10000
 rtp://239.186.70.101:10000
 #EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel eins" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/831d7188f4c913e41c104c8da055e248.88602.PNG" tvg-chno="020" channel-id="020" group-title="DEU",Kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/041e7d212f60f039b6199d952f6d76bc.83615.PNG" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/8/8f/KIKDA_von_ARD_und_ZDF_%282016%29_Print_White.svg/revision/latest/scale-to-width-down/250?cb=20250215021819" tvg-chno="021" channel-id="021" group-title="NENS",KiKA
 rtp://239.186.68.28:10000
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://www.andremartin.ch/wp-content/uploads/2018/04/prosieben-1024x1024.png" tvg-chno="022" channel-id="022" group-title="DEU",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
